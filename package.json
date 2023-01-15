@@ -4,5 +4,8 @@
   "main": "app.js",
   "repository": "git@github.com:dannyb101/sorting-visualiser.git",
   "author": "Dan Harling <dharling101@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
